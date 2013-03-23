@@ -1,8 +1,11 @@
 高级PHP应用程序漏洞审核技术
-高级PHP应用程序漏洞审核技术
+(All this below refer from: http://code.google.com/p/pasc2at/wiki/SimplifiedChinese)
 前言
+
 传统的代码审计技术
+
 PHP版本与应用代码审计
+
 其他的因素与应用代码审计
 扩展我们的字典
 变量本身的key
